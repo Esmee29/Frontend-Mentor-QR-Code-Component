@@ -37,6 +37,5 @@ Praticed my HTML and CSS.
 
 ## Author
 
-- Website - [Add your name here](https://esmeefulcher.co.uk/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-  (./design/desktop-preview.jpg)
+- Website - [Esmee Fulcher](https://esmeefulcher.co.uk/)
+- Frontend Mentor - [@Esmee29](https://www.frontendmentor.io/profile/Esmee29)
