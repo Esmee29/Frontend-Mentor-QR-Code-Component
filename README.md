@@ -15,7 +15,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
 
 ### Links
 
@@ -39,3 +39,4 @@ Praticed my HTML and CSS.
 
 - Website - [Add your name here](https://esmeefulcher.co.uk/)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+  (./design/desktop-preview.jpg)
